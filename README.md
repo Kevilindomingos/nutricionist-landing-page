@@ -71,39 +71,6 @@ http://localhost:5173
 
 ---
 
-## 🏗️ Project Structure
-
-```
-nutricionist-landing-page/
-├── public/
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   ├── Hero.tsx
-│   │   ├── About.tsx
-│   │   ├── Methodology.tsx
-│   │   ├── Benefits.tsx
-│   │   ├── Testimonials.tsx
-│   │   ├── CTA.tsx
-│   │   ├── Consultation.tsx
-│   │   └── Footer.tsx
-│   ├── App.tsx
-│   ├── main.tsx
-│   ├── vite-env.d.ts
-│   └── index.css
-├── .env.example
-├── .gitignore
-├── index.html
-├── package.json
-├── README.md
-├── tailwind.config.js
-├── tsconfig.json
-├── tsconfig.node.json
-└── vite.config.ts
-```
-
----
-
 ## 🐛 Troubleshooting
 
 **Error: Cannot find module 'lucide-react'**
